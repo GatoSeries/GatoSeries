@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.perfil {
+    border-radius: 50%;
+    width: 350px;
+}
+
+#Bienvenidos {
+    bottom: 0;
+    background: linear-gradient(#707070 50%, #27ae50 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Menu {
+    list-style: none;
+    position: fixed;
+    z-index: 1;
+    cursor: pointer;
+    background: linear-gradient(#707070 50%, #27ae50 100%);
+    width: 100%;
+    margin-top: 0px;
+    color: black;
+}
+
+.link {
+    float: left;
+    padding: 5px 19px;
+    font-family: fantasy;
+    font-size: 19px;
+    font-family: 'EB Garamond', serif;
+
+}
+
+#User {
+    font-size: 50px;
+    font-family: 'La Belle Aurore', cursive;
+
+}
+
+.muchotexto {
+    height: 6px;
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    margin: 8px auto;
+}
+a{
+text-decoration: none;
+color: black;    
+}
+#oño {
+background-color: aquamarine;    
+}   
+
