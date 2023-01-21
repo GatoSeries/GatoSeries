@@ -5,7 +5,7 @@ body {
 }
 
 .perfil {
-    border-radius: 50%;
+    border-radius: 10%;
     width: 350px;
 }
 
@@ -60,5 +60,10 @@ color: black;
 }
 #oño {
 background-color: aquamarine;    
+}
+.Alex {
+position: sticky;
+top: 0;
+z-index: 10000;    
 }   
 
